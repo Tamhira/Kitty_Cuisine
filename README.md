@@ -1,2 +1,0 @@
-# Kitty_Cuisine
----
