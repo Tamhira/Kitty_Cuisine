@@ -220,14 +220,14 @@ footer{
 .h-primary{
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 3.5rem;
+    font-size: 50px;
     padding: 12px;
 }
 .h-primary1{
     color: black;
-    padding: 40px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 3.5rem;
+    font-size: 50px;
 }
 .h-secondary{
     font-family: Georgia, 'Times New Roman', Times, serif;
