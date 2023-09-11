@@ -50,36 +50,38 @@
 #contact-box form{
     width: 80%;
 }
-
 #contact {
     position: relative;
     border: 2px solid brown;
     background-color: white;
     height: 600px;
     width: 90%;
-    margin: 120px auto;
+    margin: 20px auto;
     padding: 0px;
     border-radius: 28px;
 }
 /* footer */
 
 /* Utility classes  */
-.h-primary {
+.h-primary0 {
     /* padding: 10px; */
-    font-size: 1.2rem;
+    font-size: 23px;
 }
 .h-primary1{
-    font-size: 1.2rem;
+    font-size: 2.2rem;
     padding: 67px 10px 10px 10px;
+}
+.h-primary {
+    /* padding: 10px; */
+    font-size: 2.2rem;
+}
+.h-secondary {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.0rem;
+    padding: 0px;
 }
 .btn{
     font-size: 15px;
     padding: 4px 8px;
     margin: 11px;
-}
-
-.h-secondary {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 2.0rem;
-    padding: 0px;
 }
