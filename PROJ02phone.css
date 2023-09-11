@@ -9,8 +9,9 @@
 }
 
 /* Home-section */
-#home{
-    height: 250px;
+#home {
+    height: 280px;
+    width: 200px;
     padding: 1px 10px;
     margin: 48px auto;
 }
